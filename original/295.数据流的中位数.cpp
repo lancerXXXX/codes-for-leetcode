@@ -51,7 +51,7 @@ public:
       return *mid;
     }
   }
-};jk
+};
 
 /**
  * Your MedianFinder object will be instantiated and called as such:
